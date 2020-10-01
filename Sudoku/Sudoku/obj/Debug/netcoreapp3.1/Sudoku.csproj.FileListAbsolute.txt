@@ -1,0 +1,13 @@
+E:\ExeliaTech\Sudoku\Sudoku\Sudoku\bin\Debug\netcoreapp3.1\Sudoku.exe
+E:\ExeliaTech\Sudoku\Sudoku\Sudoku\bin\Debug\netcoreapp3.1\Sudoku.deps.json
+E:\ExeliaTech\Sudoku\Sudoku\Sudoku\bin\Debug\netcoreapp3.1\Sudoku.runtimeconfig.json
+E:\ExeliaTech\Sudoku\Sudoku\Sudoku\bin\Debug\netcoreapp3.1\Sudoku.runtimeconfig.dev.json
+E:\ExeliaTech\Sudoku\Sudoku\Sudoku\bin\Debug\netcoreapp3.1\Sudoku.dll
+E:\ExeliaTech\Sudoku\Sudoku\Sudoku\bin\Debug\netcoreapp3.1\Sudoku.pdb
+E:\ExeliaTech\Sudoku\Sudoku\Sudoku\obj\Debug\netcoreapp3.1\Sudoku.csprojAssemblyReference.cache
+E:\ExeliaTech\Sudoku\Sudoku\Sudoku\obj\Debug\netcoreapp3.1\Sudoku.AssemblyInfoInputs.cache
+E:\ExeliaTech\Sudoku\Sudoku\Sudoku\obj\Debug\netcoreapp3.1\Sudoku.AssemblyInfo.cs
+E:\ExeliaTech\Sudoku\Sudoku\Sudoku\obj\Debug\netcoreapp3.1\Sudoku.csproj.CoreCompileInputs.cache
+E:\ExeliaTech\Sudoku\Sudoku\Sudoku\obj\Debug\netcoreapp3.1\Sudoku.dll
+E:\ExeliaTech\Sudoku\Sudoku\Sudoku\obj\Debug\netcoreapp3.1\Sudoku.pdb
+E:\ExeliaTech\Sudoku\Sudoku\Sudoku\obj\Debug\netcoreapp3.1\Sudoku.genruntimeconfig.cache
